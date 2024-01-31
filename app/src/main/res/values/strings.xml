@@ -1,0 +1,506 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+
+    <string name="antwerp">1. <b>Full Name:</b> Royal Antwerp Football Club
+        \n2. <b>Nickname:</b> The Great Old
+        \n3. <b>Founded:</b> Royal Antwerp FC was founded on August 1, 1880.
+        \n4. <b>Stadium:</b> The club plays its home matches at the Bosuilstadion, located in the district of Deurne in Antwerp. The stadium has a rich history and is one of the iconic football venues in Belgium.
+        \n5. <b>Colors:</b> Royal Antwerp\'s traditional colors are red and white. The team typically wears red and white striped jerseys.
+        \n6. <b>Notable Achievements:</b>\n
+          - Royal Antwerp has a long history in Belgian football and has achieved success in both domestic and international competitions.\n
+          - The club has won the Belgian Pro League (Jupiler Pro League) and the Belgian Cup (Cofidis Cup) at various points in its history.\n
+          - While not as internationally renowned as some other European clubs, Royal Antwerp has a significant place in Belgian football history.
+        \n7. <b>Cultural Impact:</b> The club holds cultural significance in Antwerp and has a dedicated fan base. Like many football clubs, Royal Antwerp plays a role in the local community and contributes to the cultural fabric of the city.
+        \n8. <b>Affiliation:</b> Royal Antwerp is associated with the city of Antwerp and represents the local community in Belgian football. The club\'s success is often seen as a source of pride for the people of Antwerp.</string>
+
+    <string name="atletico_madrid">1. <b>Full Name:</b> Club Atlético de Madrid
+        \n2. <b>Nickname:</b> Atleti
+        \n3. <b>Founded:</b> Club Atlético de Madrid was founded on April 26, 1903.
+        \n4. <b>Stadium:</b> The club plays its home matches at Wanda Metropolitano, located in Madrid, Spain. The stadium has a modern design and is one of the largest stadiums in Europe.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white. The home kit typically features vertical red and white stripes.
+        \n6. <b>Motto:</b> "¡Aúpa Atleti!" is a common rallying cry among Atletico fans, expressing support and encouragement for the team.
+        \n7. <b>President:</b> The president of Club Atlético de Madrid is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Atletico de Madrid has a strong footballing history with success in domestic competitions like La Liga and Copa del Rey.\n
+          - The club has been competitive in European competitions, reaching the UEFA Champions League final multiple times and winning the title.\n
+          - Notable players in the club\'s history include Fernando Torres, Diego Forlán, and Antoine Griezmann.
+        \n9. <b>Style of Play:</b> Atletico de Madrid is known for its defensively solid and tactically disciplined style of play. The team has a reputation for being tough to break down.
+        \n10. <b>Cultural Impact:</b> The club has a passionate fanbase, and its success is a source of pride for the city of Madrid. The team\'s underdog mentality has endeared it to many football enthusiasts.
+        \n11. <b>Affiliation:</b> While based in Madrid, Atletico de Madrid has a broad fanbase and represents the city on the national and international football stage.</string>
+
+
+    <string name="barsa">1. <b>Full Name:</b> Futbol Club Barcelona
+        \n2. <b>Nickname:</b> Barça
+        \n3. <b>Founded:</b> FC Barcelona was founded on November 29, 1899.
+        \n4. <b>Stadium:</b> The club plays its home matches at Camp Nou, located in Barcelona, Catalonia, Spain. Camp Nou is one of the largest football stadiums in the world.
+        \n5. <b>Colors:</b> The team\'s traditional colors are blue and red. The home kit typically consists of vertical blue and red stripes.
+        \n6. <b>Motto:</b> \"Més que un club\" (More than a club) is the motto of FC Barcelona, reflecting the club\'s significance beyond football in Catalonia\'s cultural and political context.
+        \n7. <b>President:</b> The president of FC Barcelona is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - FC Barcelona has a rich history of success, both domestically and internationally.\n
+          - The club has won numerous La Liga titles and Copa del Rey trophies in Spain.\n
+          - FC Barcelona has been successful in European competitions, winning the UEFA Champions League multiple times.\n
+          - The team has produced some of the greatest footballers in history, including Lionel Messi, who spent the majority of his career at Barcelona before transferring to Paris Saint-Germain (PSG) in 2021.
+        \n9. <b>Cultural Impact:</b> FC Barcelona is known for its commitment to its fans, its youth academy (La Masia), and its style of play, often referred to as \"tiki-taka,\" emphasizing possession and quick, short passes.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with Catalonia, and its success is often seen as a symbol of Catalan identity.</string>
+
+    <string name="bayern">1. <b>Full Name:</b> Fußball-Club Bayern München e.V.
+        \n2. <b>Nickname:</b> Bayern
+        \n3. <b>Founded:</b> FC Bayern Munich was founded on February 27, 1900.
+        \n4. <b>Stadium:</b> The club plays its home matches at the Allianz Arena, located in Munich, Germany. The Allianz Arena is known for its distinctive illuminated exterior and can accommodate a large number of spectators.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white. The home kit typically consists of vertical red and white stripes.
+        \n6. <b>Motto:</b> FC Bayern Munich\'s motto is "Mia san mia, which translates to "We are who we are" in Bavarian dialect. It reflects the team\'s strong identity and unity.
+        \n7. <b>President:</b> The president of FC Bayern Munich is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - FC Bayern Munich is one of the most successful football clubs in the world, with a rich history of domestic and international success.\n
+          - The club has won numerous Bundesliga titles and DFB-Pokal trophies in Germany.\n
+          - FC Bayern Munich has achieved success in European competitions, including winning the UEFA Champions League multiple times.\n
+          - The team has produced legendary players, and its success has continued in the modern era with stars like Robert Lewandowski.
+        \n9. <b>Cultural Impact:</b> FC Bayern Munich is known for its passionate fanbase, strong emphasis on youth development, and its commitment to attacking and attractive football.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Munich and the Bavarian region, representing the local culture and identity.</string>
+
+    <string name="benfica">1. <b>Full Name:</b> Sport Lisboa e Benfica
+        \n2. <b>Nickname:</b> Benfica
+        \n3. <b>Founded:</b> Sport Lisboa e Benfica was founded on February 28, 1904.
+        \n4. <b>Stadium:</b> The club plays its home matches at Estádio da Luz, located in Lisbon, Portugal. Estádio da Luz is one of the largest stadiums in Portugal.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white. The home kit typically consists of vertical red and white stripes.
+        \n6. <b>Motto:</b> "E pluribus unum" (Out of many, one) is one of Benfica\'s mottos, emphasizing unity and diversity.
+        \n7. <b>President:</b> The president of Sport Lisboa e Benfica is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Benfica has a rich history of success, both domestically and internationally.\n
+          - The club has won numerous Primeira Liga titles and Taca de Portugal trophies in Portugal.\n
+          - Benfica has had success in European competitions, including winning the European Cup (now UEFA Champions League) twice in the 1960s.\n
+          - The team has produced notable footballers who have made a mark in the sport.
+        \n9. <b>Cultural Impact:</b> Benfica is known for its passionate fan base, known as "Benfiquistas," and its commitment to developing young talent through its youth academy.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with Lisbon and is a symbol of Portuguese football pride.</string>
+
+    <string name="braga">
+    1. <b>Full Name:</b> Sporting Clube de Braga
+    \n2. <b>Nickname:</b> Os Arsenalistas (The Arsenalists)
+    \n3. <b>Founded:</b> Sporting Braga was founded on January 1, 1921.
+    \n4. <b>Stadium:</b> The club plays its home matches at Estádio Municipal de Braga, also known as "The Quarry" (A Pedreira) or "The Municipal" (O Municipal).
+    \n5. <b>Colors:</b> Braga\'s traditional colors are red and white.
+    \n6. <b>Notable Achievements:</b>
+    - Braga has achieved success in Portuguese football, consistently competing in Primeira Liga, the top tier of Portuguese football.
+    - The club has had notable runs in domestic cup competitions, including Taca de Portugal and Taca da Liga.
+    - Braga has also participated in European competitions such as the UEFA Europa League and UEFA Champions League.
+    \n7. <b>Cultural Impact:</b> Sporting Braga has a significant fan base and plays a crucial role in the cultural and sporting life of the city of Braga and the surrounding region.
+    \n8. <b>Affiliation:</b> The club is associated with the city of Braga and the Minho region in Portugal.
+</string>
+
+    <string name="celtic">1. <b>Full Name:</b> Celtic Football Club
+        \n2. <b>Nickname:</b> The Bhoys
+        \n3. <b>Founded:</b> Celtic FC was founded on November 6, 1887.
+        \n4. <b>Stadium:</b> The club plays its home matches at Celtic Park, located in Glasgow, Scotland. Celtic Park is known for its passionate atmosphere and is one of the iconic football stadiums in Scotland.
+        \n5. <b>Colors:</b> The team\'s traditional colors are green and white. The home kit typically features vertical green and white stripes.
+        \n6. <b>Motto:</b> "A club like no other" is a phrase often associated with Celtic, emphasizing the unique identity and history of the club.
+        \n7. <b>Manager:</b> Please check the latest information for the current manager of Celtic FC, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Celtic FC has a rich history of success, both domestically and internationally.\n
+          - The club has won numerous Scottish Premiership titles and Scottish Cups.\n
+          - Celtic achieved a historic feat by winning the European Cup in 1967, becoming the first British club to do so. This triumph is commonly known as the "Lisbon Lions" victory.
+          - The team has a strong fan base and is known for its passionate supporters, creating a special atmosphere during matches.
+        \n9. <b>Cultural Impact:</b> Celtic has a deep connection with Irish and Scottish heritage, and its fanbase is known for its dedication and loyalty. The club also has a youth academy that focuses on developing young talent.
+        \n10. <b>Rivalries:</b> Celtic has a fierce rivalry with Rangers FC, known as the Old Firm derby, one of the most intense and historic football rivalries in the world.</string>
+
+    <string name="copenhagen">1. <b>Full Name:</b> Copenhagen
+        \n2. <b>Nickname:</b> The City of Spires
+        \n3. <b>Founded:</b> Copenhagen, the capital of Denmark, has a long history dating back to the 10th century.
+        \n4. <b>Landmarks:</b> The city boasts iconic landmarks such as the Little Mermaid statue, Tivoli Gardens, and the Nyhavn harbor.
+        \n5. <b>Colors:</b> The city\'s vibrant atmosphere is reflected in its colorful architecture and lively streets.
+        \n6. <b>Motto:</b> Copenhagen is often associated with the motto "Wonderful Copenhagen," emphasizing its charm and appeal.
+        \n7. <b>Government:</b> Copenhagen is the capital and largest city of Denmark and serves as the political and cultural center of the country.
+        \n8. <b>Notable Achievements:</b>\n
+          - Copenhagen is known for its high quality of life and consistently ranks as one of the world\'s most livable cities.\n
+          - The city is celebrated for its commitment to sustainability, with a strong focus on cycling as a primary mode of transportation.\n
+          - Copenhagen is a hub for design, innovation, and culinary experiences.
+        \n9. <b>Cultural Impact:</b> The city has a rich cultural scene, with numerous museums, galleries, and theaters contributing to its artistic vitality.
+        \n10. <b>Affiliation:</b> Copenhagen is the heart of Danish culture and identity, playing a central role in the nation\'s history and development.</string>
+
+    <string name="crvena_zvezda">1. <b>Full Name:</b> Fudbalski klub Crvena zvezda (Football Club Red Star)
+        \n2. <b>Nickname:</b> Crveno-beli (The Red-Whites)
+        \n3. <b>Founded:</b> Red Star Belgrade was founded on March 4, 1945.
+        \n4. <b>Stadium:</b> The club plays its home matches at Rajko Mitić Stadium, located in Belgrade, Serbia. Rajko Mitić Stadium is one of the largest football stadiums in Serbia.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white. The home kit typically consists of vertical red and white stripes.
+        \n6. <b>Motto:</b> "Zvezda je život, ostalo su sitnice" (The Star is life, the rest are details) is a popular saying among Red Star Belgrade fans, emphasizing the club\'s importance in their lives.
+        \n7. <b>President:</b> The president of Red Star Belgrade is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Red Star Belgrade has a rich history of success, both domestically and internationally.\n
+          - The club won the European Cup (now UEFA Champions League) in 1991, becoming the first club from the former Yugoslavia to achieve this feat.\n
+          - Red Star has won numerous domestic league titles and national cups in Serbia.
+        \n9. <b>Cultural Impact:</b> Red Star Belgrade is deeply rooted in the culture of Serbia, and its success is a source of pride for its fans. The club also has a strong youth development system.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with Belgrade and Serbia, and its success is a symbol of national identity.</string>
+
+    <string name="dortmund">1. <b>Full Name:</b> Ballspielverein Borussia 09 e.V. Dortmund
+        \n2. <b>Nickname:</b> BVB, Die Schwarzgelben (The Black and Yellows)
+        \n3. <b>Founded:</b> Borussia Dortmund was founded on December 19, 1909.
+        \n4. <b>Stadium:</b> The club plays its home matches at Signal Iduna Park, located in Dortmund, North Rhine-Westphalia, Germany. Signal Iduna Park is one of the largest football stadiums in Europe.
+        \n5. <b>Colors:</b> The team\'s traditional colors are black and yellow. The home kit typically consists of vertical black and yellow stripes.
+        \n6. <b>Motto:</b> "Echte Liebe" (True Love) is a phrase often associated with Borussia Dortmund, reflecting the deep connection between the club and its passionate fanbase.
+        \n7. <b>President:</b> The president of Borussia Dortmund is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Borussia Dortmund has a rich history of success, both domestically and internationally.\n
+          - The club has won multiple Bundesliga titles and DFB-Pokal trophies in Germany.\n
+          - Borussia Dortmund achieved European success by winning the UEFA Champions League in the 1996-1997 season.\n
+          - The team has produced top-class players and has a reputation for developing young talents.
+        \n9. <b>Cultural Impact:</b> Borussia Dortmund is known for its passionate fanbase, the "Yellow Wall" at Signal Iduna Park, and its commitment to attacking and attractive football.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Dortmund and its local community.</string>
+
+    <string name="porto">1. <b>Full Name:</b> Futebol Clube do Porto
+        \n2. <b>Nickname:</b> FC Porto
+        \n3. <b>Founded:</b> FC Porto was founded on September 28, 1893.
+        \n4. <b>Stadium:</b> The club plays its home matches at Estádio do Dragão, located in Porto, Portugal. Estádio do Dragão is one of the modern and iconic football stadiums.
+        \n5. <b>Colors:</b> The team\'s traditional colors are blue and white. The home kit typically consists of vertical blue and white stripes.
+        \n6. <b>Motto:</b> "Super Dragões" (Super Dragons) is a popular motto associated with FC Porto, reflecting the passionate support of the fans.
+        \n7. <b>President:</b> The president of FC Porto is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - FC Porto has a rich history of success, both domestically and internationally.\n
+          - The club has won multiple Primeira Liga titles and Taça de Portugal trophies in Portugal.\n
+          - FC Porto has achieved success in European competitions, winning the UEFA Champions League and the UEFA Cup (now UEFA Europa League).\n
+          - The team has produced talented players who have made significant contributions to football.
+        \n9. <b>Cultural Impact:</b> FC Porto is known for its passionate fanbase, and the club has a strong identity within Portuguese football.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Porto and is a source of pride for the local community.</string>
+
+    <string name="feyenoord">1. <b>Full Name:</b> Feyenoord Rotterdam
+        \n2. <b>Nickname:</b> Feyenoord
+        \n3. <b>Founded:</b> Feyenoord was founded on July 19, 1908.
+        \n4. <b>Stadium:</b> The club plays its home matches at De Kuip, located in Rotterdam, Netherlands. De Kuip is one of the iconic football stadiums in the country.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white. The home kit typically consists of vertical red and white stripes.
+        \n6. <b>Motto:</b> "Hand in Hand, Kameraden" (Hand in Hand, Comrades) is one of the mottos associated with Feyenoord, reflecting unity and camaraderie among the supporters.
+        \n7. <b>President:</b> The president of Feyenoord is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Feyenoord has a rich history of success, including winning the Eredivisie titles and KNVB Cups in the Netherlands.\n
+          - The club achieved a significant milestone by winning the European Cup (now UEFA Champions League) in the 1969-70 season.\n
+          - Feyenoord has a strong fan base and is known for its passionate supporters.
+        \n9. <b>Cultural Impact:</b> Feyenoord has a strong cultural impact, with a loyal fanbase and a commitment to youth development. The club\'s anthem, "You\'ll Never Walk Alone," is widely embraced by fans.
+        \n10. <b>Affiliation:</b> The club has a deep connection with the city of Rotterdam and is considered a symbol of local pride and identity.</string>
+
+    <string name="galatasaray">1. <b>Full Name:</b> Galatasaray Spor Kulübü
+        \n2. <b>Nickname:</b> Cim Bom (The Red and Yellows)
+        \n3. <b>Founded:</b> Galatasaray was founded on October 1, 1905.
+        \n4. <b>Stadium:</b> The club plays its home matches at Türk Telekom Stadium, located in Istanbul, Turkey. Türk Telekom Stadium is one of the modern football stadiums in Turkey.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and yellow. The home kit typically consists of vertical red and yellow stripes.
+        \n6. <b>Motto:</b> "Asaletin Yeter" (Your Majesty is Enough) is one of the mottos associated with Galatasaray, reflecting the club\'s pride and dignity.
+        \n7. <b>President:</b> The president of Galatasaray is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Galatasaray has a rich history of success, both domestically and internationally.\n
+          - The club has won numerous Süper Lig titles and Türkiye Kupası (Turkish Cup) trophies in Turkey.\n
+          - Galatasaray achieved international success by winning the UEFA Cup and UEFA Super Cup in the 1999-2000 season.\n
+          - The team has produced iconic players, and Hakan Şükür, a legendary striker, is one of the notable figures in the club\'s history.
+        \n9. <b>Cultural Impact:</b> Galatasaray is known for its passionate fanbase, the "Aslanlar" (Lions), and its commitment to success in Turkish football. The club also has a strong emphasis on youth development.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Istanbul and Turkish culture, representing a significant part of the country\'s football heritage.</string>
+
+    <string name="inter_milan">1. <b>Full Name:</b> Football Club Internazionale Milano
+        \n2. <b>Nickname:</b> Inter Milan
+        \n3. <b>Founded:</b> Inter Milan was founded on March 9, 1908.
+        \n4. <b>Stadium:</b> The club plays its home matches at San Siro, located in Milan, Italy. San Siro is one of the iconic football stadiums in the world, shared with A.C. Milan.
+        \n5. <b>Colors:</b> The team\'s traditional colors are black and blue. The home kit typically consists of vertical black and blue stripes.
+        \n6. <b>Motto:</b> "L\'Unione fa la Forza" (Unity Makes Strength) is one of Inter Milan\'s mottos, emphasizing the power of teamwork and unity.
+        \n7. <b>President:</b> The president of Inter Milan is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Inter Milan has a rich history of success, both domestically and internationally.\n
+          - The club has won numerous Serie A titles and Coppa Italia trophies in Italy.\n
+          - Inter Milan has been successful in European competitions, winning the UEFA Champions League multiple times.\n
+          - The team has produced legendary footballers, contributing to the global football legacy.
+        \n9. <b>Cultural Impact:</b> Inter Milan is known for its passionate fanbase, historic rivalries, and its commitment to excellence on the field.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Milan and its fans, representing the cultural and sporting identity of the region.</string>
+
+    <string name="lazio">1. <b>Full Name:</b> Società Sportiva Lazio
+        \n2. <b>Nickname:</b> Biancocelesti (The White and Sky Blues)
+        \n3. <b>Founded:</b> S.S. Lazio was founded on January 9, 1900.
+        \n4. <b>Stadium:</b> The club plays its home matches at Stadio Olimpico, located in Rome, Italy. Stadio Olimpico is one of the most iconic stadiums in Italy.
+        \n5. <b>Colors:</b> The team\'s traditional colors are sky blue and white. The home kit typically consists of vertical blue and white stripes.
+        \n6. <b>Motto:</b> "Noi l\'amiamo e per Lei combattiamo" (We love it and fight for it) is a motto expressing the fans\' dedication to the club.
+        \n7. <b>President:</b> The president of S.S. Lazio is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - S.S. Lazio has a history of success in Italian football, winning Serie A titles and Coppa Italia trophies.\n
+          - The club has also achieved success in European competitions, including winning the UEFA Cup Winners\' Cup.
+        \n9. <b>Cultural Impact:</b> S.S. Lazio has a strong fan base, known for their passion and support. The club has a youth academy that contributes to the development of young talents.
+        \n10. <b>Affiliation:</b> The club is based in Rome, Italy, and represents the capital city in Italian football.</string>
+
+    <string name="leipzig">1. <b>Full Name:</b> RasenBallsport Leipzig e.V.
+        \n2. <b>Nickname:</b> RB Leipzig
+        \n3. <b>Founded:</b> RB Leipzig was founded on May 19, 2009.
+        \n4. <b>Stadium:</b> The club plays its home matches at Red Bull Arena, located in Leipzig, Saxony, Germany.
+        \n5. <b>Colors:</b> The team\'s traditional colors are white and red. The home kit typically consists of white jerseys and red shorts.
+        \n6. <b>Motto:</b> RB Leipzig operates with the motto of "You can\'t buy tradition," emphasizing the club\'s relatively short history and rapid rise through the football ranks.
+        \n7. <b>CEO:</b> The Chief Executive Officer (CEO) oversees the management of RB Leipzig. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - RB Leipzig has achieved notable success in the Bundesliga, competing at the top of the German football league.\n
+          - The club has participated in European competitions, including the UEFA Champions League.\n
+          - RB Leipzig has a reputation for developing and nurturing young talent in its squad.
+        \n9. <b>Playing Style:</b> RB Leipzig is known for its dynamic and attacking style of play, often characterized by quick transitions and pressing.
+        \n10. <b>Affiliation:</b> The club is associated with Red Bull GmbH, and its ownership and financial backing have contributed to its rapid ascent in German football.</string>
+
+    <string name="lens">1. <b>Full Name:</b> Racing Club de Lens
+        \n2. <b>Nickname:</b> Lens
+        \n3. <b>Founded:</b> Racing Club de Lens was founded on February 20, 1906.
+        \n4. <b>Stadium:</b> The club plays its home matches at Stade Bollaert-Delelis, located in Lens, Hauts-de-France, France.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and gold. The home kit typically consists of red and gold stripes.
+        \n6. <b>Motto:</b> [If applicable, insert club motto here.]
+        \n7. <b>President:</b> The president of Racing Club de Lens is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Racing Club de Lens has a history of success, both domestically and internationally.\n
+          - The club has won [insert any specific titles or achievements here, if applicable].
+        \n9. <b>Cultural Impact:</b> Racing Club de Lens is known for [insert any specific cultural impact or characteristics here].
+        \n10. <b>Affiliation:</b> [Insert any information about the club\'s affiliation, if applicable.]</string>
+
+    <string name="man_city">1. <b>Full Name:</b> Manchester City Football Club
+        \n2. <b>Nickname:</b> City, The Citizens
+        \n3. <b>Founded:</b> Manchester City was founded in 1880.
+        \n4. <b>Stadium:</b> The club plays its home matches at the Etihad Stadium, located in Manchester, England.
+        \n5. <b>Colors:</b> The traditional colors of Manchester City are sky blue and white. The home kit typically consists of a sky blue shirt, white shorts, and sky blue socks.
+        \n6. <b>Ownership:</b> As of my last update, the club was owned by the City Football Group (CFG), a multinational sports and entertainment company. Please check for any changes in ownership since then.
+        \n7. <b>Manager:</b> The manager of the team can change, so it\'s essential to check the current coach or manager.
+        \n8. <b>Notable Achievements:</b>\n
+        - Manchester City has experienced significant success in recent years, winning multiple Premier League titles and domestic cups.\n
+        - The club has also performed well in European competitions, including the UEFA Champions League.\n
+        - Under the ownership of CFG, Manchester City has invested heavily in top-tier players and facilities.
+        \n9. <b>Youth Development:</b> The club has a youth academy known for producing talented players. The academy plays a crucial role in developing homegrown talent for the first team.
+        \n10. <b>Community Impact:</b> Manchester City is actively involved in community initiatives, promoting social responsibility and engagement in the local community.\n</string>
+
+    <string name="man_united">1. <b>Full Name:</b> Manchester United Football Club
+        \n2. <b>Nickname:</b> The Red Devils
+        \n3. <b>Founded:</b> Manchester United was founded in 1878.
+        \n4. <b>Stadium:</b> The club plays its home matches at Old Trafford, located in Greater Manchester, England.
+        \n5. <b>Colors:</b> Manchester United traditionally plays in red jerseys, white shorts, and black socks.
+        \n6. <b>Ownership:</b> As of my last update, Manchester United was owned by the Glazer family.
+        \n7. <b>Manager:</b> The manager of the team can change, so it\'s essential to check the current coach or manager.
+        \n8. Notable Achievements:\n
+        - Manchester United has a storied history, including winning numerous English top-flight titles and domestic cups.\n
+        - The club has been successful in European competitions, winning the UEFA Champions League multiple times.\n
+        - Manchester United is known for its historic treble-winning season in 1998-1999 when they secured the Premier League, FA Cup, and UEFA Champions League in a single season.
+        \n9. <b>Youth Development:</b> Manchester United has a youth academy known for producing talented players, and the club places importance on developing homegrown talent for the first team.
+        \n10. <b>Community Engagement:</b> Manchester United is involved in various community initiatives and charity work, contributing to social causes in Manchester and beyond.\n</string>
+
+    <string name="ac_milan">1. <b>Full Name:</b> Associazione Calcio Milan
+        \n2. <b>Nickname:</b> Rossoneri (Red and Blacks)
+        \n3. <b>Founded:</b> AC Milan was founded on December 16, 1899.
+        \n4. <b>Stadium:</b> The club plays its home matches at San Siro, located in Milan, Italy. San Siro is one of the iconic football stadiums in Europe.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and black. The home kit typically consists of vertical red and black stripes.
+        \n6. <b>Motto:</b> "Casciavit" is a common nickname for AC Milan, derived from the local dialect, emphasizing the club\'s roots in the working-class city of Milan.
+        \n7. <b>President:</b> The president of AC Milan is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - AC Milan has a rich history of success, both domestically and internationally.\n
+          - The club has won numerous Serie A titles and Coppa Italia trophies in Italy.\n
+          - AC Milan has been successful in European competitions, winning the UEFA Champions League multiple times.\n
+          - The team has produced legendary footballers, including Paolo Maldini, Franco Baresi, and Marco van Basten.
+        \n9. <b>Cultural Impact:</b> AC Milan is known for its passionate fanbase, iconic players, and its contributions to Italian football history.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Milan, representing the pride and identity of the local community.</string>
+
+    <string name="napoli">1. <b>Full Name:</b> Società Sportiva Calcio Napoli
+        \n2. <b>Nickname:</b> Napoli
+        \n3. <b>Founded:</b> SSC Napoli was founded on August 1, 1926.
+        \n4. <b>Stadium:</b> The club plays its home matches at Stadio Diego Armando Maradona, located in Naples, Campania, Italy.
+        \n5. <b>Colors:</b> The team\'s traditional colors are sky blue and white. The home kit typically consists of vertical sky blue and white stripes.
+        \n6. <b>Motto:</b> The club\'s motto is "Il club più bello del mondo" (The most beautiful club in the world), reflecting Napoli\'s pride and passion.
+        \n7. <b>President:</b> The president of SSC Napoli is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - SSC Napoli has a history of success, winning Serie A titles and Coppa Italia trophies in Italy.\n
+          - The club has had notable success in European competitions, including winning the UEFA Cup (now UEFA Europa League).\n
+          - Napoli has had legendary players, and Diego Maradona, considered one of the greatest footballers, played a significant role in the club\'s history.
+        \n9. <b>Cultural Impact:</b> SSC Napoli is known for its passionate fan base, iconic moments, and the cultural significance of football in Naples.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Naples, and its success is deeply embedded in the local culture.</string>
+
+    <string name="newcastle_united">1. <b>Full Name:</b> Newcastle United Football Club
+        \n2. <b>Nickname:</b> The Magpies
+        \n3. <b>Founded:</b> Newcastle United was founded in 1892.
+        \n4. <b>Stadium:</b> The club plays its home matches at St James\' Park, located in Newcastle upon Tyne, England.
+        \n5. <b>Colors:</b> The team\'s traditional colors are black and white. The home kit typically consists of black and white vertical stripes.
+        \n6. <b>Motto:</b> "To win is not important, it is the only thing that counts" is a well-known motto associated with Newcastle United.
+        \n7. <b>Owner:</b> The ownership of Newcastle United may vary, so please check the latest information for details.
+        \n8. <b>Notable Achievements:</b>\n
+          - Newcastle United has a storied history in English football, with success in domestic competitions such as the English Premier League and the FA Cup.\n
+          - The club has a dedicated fan base and a rich footballing heritage.\n
+          - St James\' Park is known for its passionate supporters and electric atmosphere during matches.\n
+          - Notable players in the club\'s history include Alan Shearer, who is the all-time leading goal scorer in the Premier League.
+        \n9. <b>Cultural Impact:</b> Newcastle United holds a significant place in the hearts of its fans, known for their unwavering support and love for the club.
+        \n10. <b>Community Involvement:</b> The club is actively involved in community initiatives and projects to make a positive impact in the local area.</string>
+
+    <string name="psg">1. <b>Full Name:</b> Paris Saint-Germain Football Club
+        \n2. <b>Nickname:</b> PSG
+        \n3. <b>Founded:</b> Paris Saint-Germain was founded in 1970.
+        \n4. <b>Stadium:</b> The club plays its home matches at Parc des Princes, located in Paris, France.
+        \n5. <b>Colors:</b> The team\'s traditional colors are blue and red. The home kit typically features a combination of these colors.
+        \n6. <b>Motto:</b> "Ici, c'est Paris" (Here is Paris) is a popular slogan among PSG fans, emphasizing pride and loyalty to the club.
+        \n7. <b>President:</b> The president of PSG is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - PSG has enjoyed success in domestic competitions, winning Ligue 1 titles and Coupe de France trophies.\n
+          - The club has made significant strides in European competitions, reaching the UEFA Champions League final and consistently participating in the tournament.\n
+          - Paris Saint-Germain has signed top football talents globally, making a strong impact in the world of football.
+        \n9. <b>Cultural Impact:</b> PSG is known for its passionate fanbase, global fan following, and its emergence as a football powerhouse in recent years.
+        \n10. <b>Affiliation:</b> The club represents the city of Paris and has become a symbol of pride for its supporters.</string>
+
+    <string name="psv">1. <b>Full Name:</b> Philips Sport Vereniging (PSV)
+        \n2. <b>Nickname:</b> PSV
+        \n3. <b>Founded:</b> PSV was founded on August 31, 1913.
+        \n4. <b>Stadium:</b> The club plays its home matches at Philips Stadion, located in Eindhoven, Netherlands. Philips Stadion is the home of PSV and has a rich history.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white. The home kit typically features vertical red and white stripes.
+        \n6. <b>Motto:</b> [Insert Club Motto if available]
+        \n7. <b>President:</b> The president of PSV is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - PSV has a storied history with notable achievements in domestic competitions, including Eredivisie titles and KNVB Cups in the Netherlands.\n
+          - The club has had success on the European stage, winning the European Cup (now UEFA Champions League) in the 1988-1989 season.\n
+          - PSV has produced talented footballers who have made significant contributions to the sport.
+        \n9. <b>Cultural Impact:</b> PSV is known for its passionate fan base, commitment to youth development, and its contributions to Dutch football.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with Eindhoven and the broader Dutch football community.</string>
+
+    <string name="real">1. <b>Full Name:</b> Real Madrid Club de Fútbol
+        \n2. <b>Nicknames:</b> Los Blancos (The Whites), Los Merengues
+        \n3. <b>Founded:</b> Real Madrid was founded on March 6, 1902.
+        \n4. <b>Stadium:</b> The club plays its home matches at Santiago Bernabéu Stadium, located in Madrid, Spain. The stadium has a rich history and is one of the most iconic football venues in the world.
+        \n5. <b>Colors:</b> The team traditionally plays in an all-white kit, which has given rise to the nickname \"Los Blancos.\"
+        \n6. <b>Motto:</b> \"Hala Madrid\" is a common chant and phrase among Real Madrid fans, expressing support for the team. It roughly translates to \"Come on, Madrid!\"
+        \n7. <b>President:</b> Real Madrid, like many football clubs, has a president who oversees the club\'s operations. Please check the latest information for the current president.
+        \n8. <b>Notable Achievements:</b>\n
+          - Real Madrid is one of the most successful football clubs globally, having won numerous La Liga titles and Copa del Rey trophies in Spain.\n
+          - The club has a remarkable record in European competitions, including winning the UEFA Champions League multiple times.\n
+          - Real Madrid has produced and featured some of the greatest footballers in history, including Alfredo Di Stéfano, Cristiano Ronaldo, and many others.
+        \n9. <b>Cultural Impact:</b> Real Madrid is known for its strong global fan base, its historic rivalry with FC Barcelona, and its Galácticos policy, which involves signing high-profile, world-class players.
+        \n10. <b>Academy:</b> Real Madrid also has a renowned youth academy, known as \"La Fábrica,\" which has produced talented players who have gone on to become stars.</string>
+
+    <string name="real_sociedad">1. <b>Full Name:</b> Real Sociedad de Fútbol
+        \n2. <b>Nickname:</b> La Real
+        \n3. <b>Founded:</b> Real Sociedad was founded on September 7, 1909.
+        \n4. <b>Stadium:</b> The club plays its home matches at the Reale Arena, located in San Sebastián, Basque Country, Spain.
+        \n5. <b>Colors:</b> The team\'s traditional colors are blue and white. The home kit typically consists of blue and white stripes.
+        \n6. <b>Motto:</b> "Aurrera mutikoak!" (Onward, boys!) is a popular chant associated with Real Sociedad.
+        \n7. <b>President:</b> The president of Real Sociedad is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Real Sociedad has achieved success in Spanish football, winning La Liga titles and Copa del Rey trophies.
+          - The club has also participated in European competitions, making notable appearances in the UEFA Champions League.
+          - Over the years, Real Sociedad has developed a reputation for nurturing talented players through its youth system.
+        \n9. <b>Cultural Impact:</b> Real Sociedad is deeply rooted in Basque culture and has a strong connection with the local community.
+        \n10. <b>Affiliation:</b> The club\'s success is often seen as a source of pride for the Basque Country, contributing to the region\'s identity.</string>
+
+    <string name="salzburg">1. <b>Full Name:</b> FC Red Bull Salzburg
+        \n2. <b>Nickname:</b> Die Mozartstädter (The Mozart City Dwellers)
+        \n3. <b>Founded:</b> FC Red Bull Salzburg was founded in 1933.
+        \n4. <b>Stadium:</b> The club plays its home matches at Red Bull Arena, located in Salzburg, Austria.
+        \n5. <b>Colors:</b> The team\'s traditional colors are white and red.
+        \n6. <b>Motto:</b> "Echt und stark" (Real and Strong) represents the club\'s commitment to authenticity and strength.
+        \n7. <b>President:</b> Please check the latest information for the current president.
+        \n8. <b>Notable Achievements:</b>\n
+          - FC Red Bull Salzburg has been dominant in Austrian football, winning numerous Bundesliga titles and ÖFB Cups.\n
+          - The club has participated in various European competitions, making significant strides in the UEFA Europa League and Champions League.\n
+          - Notable players who have developed at Salzburg include Erling Haaland and Sadio Mane.
+        \n9. <b>Cultural Impact:</b> FC Red Bull Salzburg is renowned for its commitment to youth development, with a strong focus on nurturing talented players through its academy.\n
+        \n10. <b>Affiliation:</b> The club is affiliated with Red Bull and has a significant impact on the footballing landscape in Austria.</string>
+
+    <string name="sevilla">1. <b>Full Name:</b> Sevilla Fútbol Club
+        \n2. <b>Nickname:</b> Sevillistas
+        \n3. <b>Founded:</b> Sevilla FC was founded on January 25, 1890.
+        \n4. <b>Stadium:</b> The club plays its home matches at Ramón Sánchez Pizjuán Stadium, located in Seville, Andalusia, Spain.
+        \n5. <b>Colors:</b> The team\'s traditional colors are white and red. The home kit typically consists of vertical white and red stripes.
+        \n6. <b>Motto:</b> "NO8DO" is the official motto of Sevilla FC, and it is a rebus combining the Spanish word "no" with the number eight, representing "no me ha dejado" (it has not abandoned me).
+        \n7. <b>President:</b> The president of Sevilla FC is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Sevilla FC has had notable success, including multiple UEFA Europa League victories.\n
+          - The club has achieved success in domestic competitions, with Copa del Rey triumphs.\n
+          - Sevilla FC has a strong presence in European competitions and has participated in the UEFA Champions League.\n
+          - The team has produced talented players who have made significant contributions to football.
+        \n9. <b>Cultural Impact:</b> Sevilla FC is known for its passionate fanbase, and its success has contributed to the city\'s cultural identity.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the Andalusian region, and its achievements are celebrated as a source of regional pride.</string>
+
+    <string name="shakhtar_donetsk">1. <b>Full Name:</b> Football Club Shakhtar Donetsk
+        \n2. <b>Nickname:</b> Shakhtar
+        \n3. <b>Founded:</b> FC Shakhtar Donetsk was founded on April 24, 1936.
+        \n4. <b>Stadium:</b> The club plays its home matches at Donbass Arena, located in Donetsk, Ukraine. Donbass Arena is a modern and well-equipped football stadium.
+        \n5. <b>Colors:</b> The team\'s traditional colors are orange and black. The home kit typically consists of vertical orange and black stripes.
+        \n6. <b>Motto:</b> [Include any known motto or skip if not applicable]
+        \n7. <b>President:</b> The president of FC Shakhtar Donetsk is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - FC Shakhtar Donetsk has a successful history, both domestically and in European competitions.\n
+          - The club has won multiple Ukrainian Premier League titles and Ukrainian Cup trophies.\n
+          - Shakhtar Donetsk has participated in various UEFA competitions, making significant achievements.\n
+          - The team has developed and showcased talented players over the years.
+        \n9. <b>Cultural Impact:</b> FC Shakhtar Donetsk is known for its commitment to developing young talents, its competitive style of play, and its contributions to Ukrainian football.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with Donetsk and has played a crucial role in the region\'s football history. Note that due to geopolitical changes, the club may have relocated; please check the latest information.</string>
+
+    <string name="union_berlin">1. <b>Full Name:</b> 1. FC Union Berlin
+        \n2. <b>Nickname:</b> Die Eisernen (The Iron Ones)
+        \n3. <b>Founded:</b> Union Berlin was founded on May 20, 1966.
+        \n4. <b>Stadium:</b> The club plays its home matches at Stadion An der Alten Försterei, located in Berlin, Germany.
+        \n5. <b>Colors:</b> The team\'s traditional colors are red and white.
+        \n6. <b>Motto:</b> "UNVEU" (An Iron Union) is the club\'s motto, representing the strong and united spirit of the team and its fans.
+        \n7. <b>President:</b> The president of Union Berlin is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - Union Berlin has had notable successes in German football, including promotions to the Bundesliga.\n
+          - The club has a passionate fan base and is known for its unique fan culture.
+        \n9. <b>Cultural Impact:</b> Union Berlin is celebrated for its close connection with fans, community engagement, and its unconventional path in German football.
+        \n10. <b>Affiliation:</b> The club is closely tied to the city of Berlin and its working-class roots.</string>
+
+    <string name="youngBoys">1. <b>Full Name:</b> BSC Young Boys
+        \n2. <b>Nickname:</b> Young Boys
+        \n3. <b>Founded:</b> BSC Young Boys was founded on March 14, 1898.
+        \n4. <b>Stadium:</b> The club plays its home matches at Wankdorf Stadium, located in Bern, Switzerland.
+        \n5. <b>Colors:</b> The team\'s traditional colors are yellow and black.
+        \n6. <b>Motto:</b> (You can add the club\'s motto if available)
+        \n7. <b>President:</b> The president of BSC Young Boys is the head of the club. Please check the latest information, as this might have changed since my last update.
+        \n8. <b>Notable Achievements:</b>\n
+          - BSC Young Boys has a history of success in Swiss football.\n
+          - The club has won Swiss Super League titles and Swiss Cup trophies.\n
+          - Participation in European competitions, with notable achievements in UEFA competitions.
+          (Add any specific achievements based on the latest information)
+        \n9. <b>Cultural Impact:</b> BSC Young Boys is known for its fanbase, commitment to youth development, and its style of play.
+        \n10. <b>Affiliation:</b> The club has a strong affiliation with the city of Bern and the Swiss football community.</string>
+
+
+    <string name="liverpool">1. <b>Full Name:</b> Liverpool Football Club
+        \n2. <b>Nickname:</b> The Reds
+        \n3. <b>Founded:</b> Liverpool FC was founded on June 3, 1892.
+        \n4. <b>Stadium:</b> The club plays its home matches at Anfield, located in Liverpool, England.
+        \n5. <b>Colors:</b> Liverpool traditionally plays in red jerseys, red shorts, and red socks, which is why they are known as \"The Reds.\"
+        \n6. <b>Ownership:</b> As of my last update, Liverpool FC was owned by Fenway Sports Group (FSG). FSG also owns the Boston Red Sox baseball team.
+        \n7. <b>Manager:</b> The manager of the team can change, so it\'s essential to check the current coach or manager.
+        \n8. <b>Notable Achievements:</b>\n
+        - Liverpool has a rich history of success, both domestically and internationally. The club has won numerous English top-flight titles and domestic cups.\n
+        - Liverpool has been successful in European competitions, including winning the UEFA Champions League multiple times.\n
+        - The club has a strong fanbase and is known for its passionate supporters.
+        \n9. <b>Youth Development:</b> Liverpool has a renowned youth academy that has produced several talented players who have gone on to become key members of the first team.
+        \n10. <b>Community Engagement:</b> The club is involved in various community initiatives and charity work, contributing to social causes in the local area.\n</string>
+
+    <string name="arsenal">1. <b>Full Name:</b> Arsenal Football Club
+        \n2. <b>Nickname:</b> The Gunners
+        \n3. <b>Founded:</b> Arsenal was founded in 1886.
+        \n4. <b>Stadium:</b> The club plays its home matches at the Emirates Stadium, located in Holloway, London.
+        \n5. <b>Colors:</b> Arsenal traditionally plays in red jerseys with white sleeves, white shorts, and red socks.
+        \n6. <b>Ownership:</b> As of my last update, Arsenal was owned by Kroenke Sports &amp; Entertainment, owned by American businessman Stan Kroenke.
+        \n7. <b>Manager:</b> The manager of the team can change, so it\'s essential to check the current coach or manager.
+        \n8. <b>Notable Achievements:</b>\n
+        - Arsenal has a successful history, including winning multiple English top-flight titles and domestic cups.\n
+        - The club is known for its Invincibles season in the 2003-2004 Premier League, where they went unbeaten throughout the entire league campaign.\n
+        - Arsenal has also achieved success in European competitions, although they haven\'t won the UEFA Champions League.
+        \n9. <b>Youth Development:</b> Arsenal has a youth academy known for producing talented players. The academy aims to develop players for the first team.
+        \n10. <b>Community Engagement:</b> Arsenal is involved in various community initiatives and charity work, contributing to social causes in North London and beyond.></string>
+
+    <string name="chelsea">1. <b>Full Name:</b> Chelsea Football Club
+        \n2. <b>Nickname:</b> The Blues
+        \n3. <b>Founded:</b> Chelsea FC was founded on March 14, 1905.
+        \n4. <b>Stadium:</b> The club plays its home matches at Stamford Bridge, located in Fulham, London.
+        \n5. <b>Colors:</b> Chelsea traditionally plays in royal blue jerseys, blue shorts, and white socks.
+        \n6. <b>Ownership:</b> As of my last update, Chelsea FC was owned by Roman Abramovich, a Russian billionaire.
+        \n7. <b>Manager:</b> The manager of the team can change, so it\'s essential to check the current coach or manager.
+        \n8. <b>Notable Achievements:</b>\n
+        - Chelsea has been successful domestically, winning multiple English top-flight titles and domestic cups.\n
+        - The club has had success in European competitions, including winning the UEFA Champions League.\n
+        - Chelsea has also won the UEFA Europa League and the UEFA Cup Winners\' Cup.
+        \n9. <b>Youth Development:</b> Chelsea has a youth academy that has produced talented players, some of whom have become key members of the first team.
+        \n10. <b>Community Engagement:</b> Chelsea is involved in various community initiatives and charity work, contributing to social causes in West London and beyond.</string>
+
+    <string name="tottenham">1. <b>Full Name:</b> Tottenham Hotspur Football Club
+        \n2. <b>Nickname:</b> Spurs
+        \n3. <b>Founded:</b> Tottenham Hotspur was founded in 1882.
+        \n4. <b>Stadium:</b> The club plays its home matches at the Tottenham Hotspur Stadium, located in Tottenham, North London.
+        \n5. <b>Colors:</b> Tottenham traditionally plays in white jerseys, navy blue shorts, and white socks.
+        \n6. <b>Ownership:</b> As of my last update, Tottenham Hotspur was owned by ENIC International Ltd., with Daniel Levy serving as the club\'s chairman.
+        \n7. <b>Manager:</b> The manager of the team can change, so it\'s essential to check the current coach or manager.
+        \n8. <b>Notable Achievements:</b>\n
+        - Tottenham Hotspur has a successful history, including winning the English top-flight title multiple times.\n
+        - The club has won domestic cups such as the FA Cup and the League Cup.\n
+        - Tottenham has had notable success in European competitions, reaching the final of the UEFA Cup (now Europa League) and the UEFA Champions League.
+        \n9. <b>Youth Development:</b> Tottenham has a youth academy known for producing talented players. The club places emphasis on developing young talent for the first team.
+        \n10. <b>Community Engagement:</b> Tottenham is involved in various community initiatives and charity work, contributing to social causes in North London and beyond.</string>
+
+
+</resources>
