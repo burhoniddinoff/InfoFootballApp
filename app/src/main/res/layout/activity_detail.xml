@@ -25,7 +25,6 @@
                 android:padding="8dp"
                 android:src="@drawable/ic_back_icon" />
 
-
             <TextView
                 android:id="@+id/textFootballClubName"
                 android:layout_width="wrap_content"
